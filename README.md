@@ -47,9 +47,9 @@ Communities within the United States. The data combines socio-economic data from
 
 ***Source of dataset: http://archive.ics.uci.edu/ml/datasets/communities+and+crime***
 
-**Creator:** Michael Redmond (redmond '@' lasalle.edu); Computer Science; La Salle University; Philadelphia, PA, 19141, USA
+**Creator:** Michael Redmond (redmond '@' lasalle.edu); Computer Science; La Salle University; Philadelphia, PA, 19141, US
 -- culled from 1990 US Census, 1995 US FBI Uniform Crime Report, 1990 US Law Enforcement Management and Administrative Statistics Survey, available from ICPSR at U of Michigan.
--- Donor: Michael Redmond (redmond '@' lasalle.edu); Computer Science; La Salle University; Philadelphia, PA, 19141, USA
+-- Donor: Michael Redmond (redmond '@' lasalle.edu); Computer Science; La Salle University; Philadelphia, PA, 19141, US
 -- Date: July 2009 
 
 ---
