@@ -8,7 +8,7 @@
 
 #### ABSTRACT
 
-Information is mounting significantly and hungry for knowledge. As data is expanding, the world is moving in chasing information with the assistance of analytics in this era of Big Data. The flooding of information arising out of different areas is named for automated learning techniques for data analysis, which is implied as Machine Learning (ML) or Artificial Intelligence (AI). Linear Regression is a statistical strategy for plotting the line and is used for predictive analysis. Gradient descent is the cycle that uses a cost function on gradients for limiting the complexity in computing mean square error. The above-mentioned methods are implemented in the project using python programming tools for analyzing the datasets.
+Information is mounting significantly and hungry for knowledge. As data is expanding, the world is moving in chasing information with the assistance of analytics in this era of Big Data. The flooding of information arising out of different fields is named for automated learning techniques for data analysis, which is implied as Machine Learning (ML) or Artificial Intelligence (AI). Linear Regression is a statistical strategy for plotting the line and is used for predictive analysis. Gradient descent is the cycle that uses a cost function on gradients for limiting the complexity in computing mean square error. The above-mentioned methods are implemented in the project using python programming tools for analyzing the datasets.
 
 *Keywords: Machine Learning, Artificial Intelligence, Linear Regression, Predictive Analysis, Gradient descent, Cost Function*
 
@@ -29,7 +29,7 @@ Communities within the United States. The data combines socio-economic data from
 |------------------------|-----------------|-------|-------------------------|-----------------|------------|-------------|
 |Multivariative          | 1994            |Social |Real                     |128              |13-07-2009  |Yes          |
 
-##### Sample Data
+#### Sample Data
 
 | polulation(x)| ViolentCrimesPerPop(y)| 
 |--------------|-----------------------|
